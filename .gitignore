@@ -1,0 +1,4 @@
+.idea
+.workouts
+.env.local
+node_modules
